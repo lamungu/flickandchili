@@ -1,0 +1,2 @@
+export const MOVIE_OPENED = 'MOVIE_OPENED';
+export const MOVIE_CLOSED = 'MOVIE_CLOSED';
